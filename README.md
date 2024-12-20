@@ -6,8 +6,8 @@ This project showcases a simple shopping application developed using Java Swing 
 
 ## About Me  
 Hi! My name is Dimitar Gogov, and I’m a Front-end and Back-end developer with experience in:  
-- **Front-end**: React, CSS, JavaScript, HTML  
-- **Back-end**: Java, C#  
+- **Front-end**: Java.Swing Java.AWT
+- **Back-end**: Java
 
 This project allowed me to expand my knowledge of Java while exploring desktop application development with Swing.  
 
