@@ -2,6 +2,7 @@
 A desktop shopping application built using Java and Swing, created as part of my experience with Java development.  
 
 <img width="1153" height="690" alt="{44375F7D-CA58-4261-BF8A-897621BCE4F9}" src="https://github.com/user-attachments/assets/d9ae6e84-2a19-4360-ba0f-0be6be0be1f5" />
+<img width="1100" height="713" alt="{F22204D9-D3DA-43B6-A3D2-AEE3A6A517F3}" src="https://github.com/user-attachments/assets/ade9989b-c1ae-4717-97c4-773e263c3f1e" />
 
 ## About the Project  
 This project showcases a simple shopping application developed using Java Swing for the user interface and additional libraries for file management and utility classes. It was originally created as part of my university coursework and serves as a practical demonstration of my skills with Java. Please note that this project might still have some bugs or incomplete features, as it is a learning exercise.  
